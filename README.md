@@ -8,9 +8,11 @@ RSS Feed 1.0
 	- Scrolling Text is used to roll NEWS. 
 
 Bugs:
+
 	- Script stops after some hours, may be its a memory issue.
 	
 To-Dos:
+
 	- Add some delay in resyncing RSS to reduce network usage.
 	- Filter Publish date from RSS and then display.
 
